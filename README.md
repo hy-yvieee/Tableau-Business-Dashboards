@@ -10,7 +10,7 @@ Welcome to my interactive data visualization showcase! This repository stores th
 #### 🔍 Visual Preview
 > **Note**: I just built my very first structural bar chart for this pipeline! Below is a glimpse of the initial layout. More interactive elements and complex calculated fields are actively being stacked on top.
 
-*(Drag and drop your bar chart screenshot here!)*
+![My First Bar Chart](Annual_Bonus_Analysis.png)
 
 ---
 

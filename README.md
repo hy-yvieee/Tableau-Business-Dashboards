@@ -11,6 +11,7 @@ Welcome to my interactive data visualization showcase! This repository stores th
 > **Note**: I just built my very first structural bar chart for this pipeline! Below is a glimpse of the initial layout. More interactive elements and complex calculated fields are actively being stacked on top.
 
 ![My First Bar Chart](Annual_Bonus_Analysis.png)
+![My First Area Chart](Unemployeed_number_of_year.png)
 
 ---
 

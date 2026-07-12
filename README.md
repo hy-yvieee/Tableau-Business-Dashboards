@@ -13,6 +13,7 @@ Welcome to my interactive data visualization showcase! This repository stores th
 ![My First Bar Chart](Annual_Bonus_Analysis.png)
 ![My First Area Chart](Unemployeed_number_of_year.png)
 ![My First Dashboard](Europe_Customer_Dashboard.png)
+![My First Storyline](UK_Bank_Storyline.png)
 
 ---
 
